@@ -1,0 +1,97 @@
+
+Panda.png
+size: 744,744
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 537, 39
+  size: 101, 176
+  orig: 122, 187
+  offset: 16, 2
+  index: -1
+arm_R
+  rotate: true
+  xy: 399, 217
+  size: 174, 254
+  orig: 179, 254
+  offset: 5, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 372
+  size: 395, 370
+  orig: 395, 394
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 490, 2
+  size: 206, 35
+  orig: 206, 36
+  offset: 0, 0
+  index: -1
+eye_open
+  rotate: true
+  xy: 655, 189
+  size: 202, 74
+  orig: 202, 74
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 238, 16
+  size: 250, 38
+  orig: 253, 42
+  offset: 1, 2
+  index: -1
+head
+  rotate: true
+  xy: 399, 393
+  size: 349, 316
+  orig: 351, 352
+  offset: 2, 24
+  index: -1
+leg_L_1
+  rotate: true
+  xy: 640, 91
+  size: 96, 99
+  orig: 109, 109
+  offset: 1, 9
+  index: -1
+leg_L_2
+  rotate: true
+  xy: 2, 207
+  size: 163, 212
+  orig: 214, 271
+  offset: 2, 59
+  index: -1
+leg_R_1_1
+  rotate: true
+  xy: 2, 2
+  size: 185, 234
+  orig: 237, 296
+  offset: 0, 62
+  index: -1
+leg_R_1_2
+  rotate: true
+  xy: 238, 80
+  size: 116, 108
+  orig: 126, 121
+  offset: 2, 10
+  index: -1
+mouth_close
+  rotate: true
+  xy: 395, 56
+  size: 159, 140
+  orig: 159, 143
+  offset: 0, 0
+  index: -1
+mouth_open
+  rotate: false
+  xy: 238, 198
+  size: 155, 172
+  orig: 155, 172
+  offset: 0, 0
+  index: -1
