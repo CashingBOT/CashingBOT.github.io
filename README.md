@@ -1,2 +1,2 @@
 # Hello World
-[翻滚熊猫](CashingBOT.github.io/TumblePanda/)
+[翻滚熊猫](./TumblePanda/)
